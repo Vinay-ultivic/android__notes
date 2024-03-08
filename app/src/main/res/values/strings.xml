@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Save Notes</string>
+
+    //Common
+    <string name="coming_soon">Coming soon</string>
+    //Home Screen
+    <string name="notes">Notes</string>
+    <string name="sign_out">Sign out</string>
+    <string name="search_here">Search here</string>
+
+    //Update Details
+    <string name="update_details">Update Details</string>
+
+    //Edit Screen
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="write_your_description_here">Write your Description Here</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_descriptions">Enter description</string>
+</resources>
